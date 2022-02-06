@@ -1,0 +1,23 @@
+{
+  "name": "lesson_3",
+  "version": "1.0.0",
+  "description": "Jenkins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Viktoryia1QA/lesson_3.git"
+  },
+  "author": "Viktoryia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Viktoryia1QA/lesson_3/issues"
+  },
+  "homepage": "https://github.com/Viktoryia1QA/lesson_3#readme",
+  "dependencies": {
+    "fs-extra": "^10.0.0",
+    "yargs": "^17.3.1"
+  }
+}
